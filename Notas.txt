@@ -1,0 +1,12 @@
+Puntos a Corregir o completar:
+
+Que la caja se ordene desde la ultima caja  cerradaa/abierta.
+Hacer busqueda de cajas por fechas.
+Modificar stock a realizar el pago de un producto //ECHO
+Validar que exista el stock suficiente para realizar una venta.
+Poner filtros/validaciones para los ingresos de datos(no letras, etc)
+Seccion de productos Mas vendidos por Mes/semana
+
+Ver Cuenta corrientes
+
+Crear perfiles y acceso a formularios.

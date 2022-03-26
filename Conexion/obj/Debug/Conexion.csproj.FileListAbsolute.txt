@@ -1,0 +1,92 @@
+C:\Users\54381\source\repos\Commerce\Conexion\bin\Debug\Conexion.dll.config
+C:\Users\54381\source\repos\Commerce\Conexion\bin\Debug\Conexion.dll
+C:\Users\54381\source\repos\Commerce\Conexion\bin\Debug\Conexion.pdb
+C:\Users\54381\source\repos\Commerce\Conexion\bin\Debug\Entidades.dll
+C:\Users\54381\source\repos\Commerce\Conexion\bin\Debug\EntityFramework.dll
+C:\Users\54381\source\repos\Commerce\Conexion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\54381\source\repos\Commerce\Conexion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\54381\source\repos\Commerce\Conexion\bin\Debug\Entidades.pdb
+C:\Users\54381\source\repos\Commerce\Conexion\bin\Debug\Entidades.dll.config
+C:\Users\54381\source\repos\Commerce\Conexion\bin\Debug\EntityFramework.xml
+C:\Users\54381\source\repos\Commerce\Conexion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\54381\source\repos\Commerce\Conexion\obj\Debug\Conexion.csprojAssemblyReference.cache
+C:\Users\54381\source\repos\Commerce\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\54381\source\repos\Commerce\Conexion\obj\Debug\Conexion.csproj.CopyComplete
+C:\Users\54381\source\repos\Commerce\Conexion\obj\Debug\Conexion.dll
+C:\Users\54381\source\repos\Commerce\Conexion\obj\Debug\Conexion.pdb
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\bin\Debug\Conexion.dll.config
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\bin\Debug\Conexion.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\bin\Debug\Conexion.pdb
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\bin\Debug\Entidades.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\bin\Debug\EntityFramework.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\bin\Debug\Entidades.pdb
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\bin\Debug\Entidades.dll.config
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\bin\Debug\EntityFramework.xml
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\obj\Debug\Conexion.csproj.AssemblyReference.cache
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\obj\Debug\Conexion.csproj.CopyComplete
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\obj\Debug\Conexion.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\obj\Debug\Conexion.pdb
+C:\Users\54381\source\repos\Commerce\Conexion\bin\Debug\Presentacion.Base.exe
+C:\Users\54381\source\repos\Commerce\Conexion\bin\Debug\Presentacion.Base.pdb
+C:\Users\54381\source\repos\Commerce\Conexion\bin\Debug\Presentacion.Base.exe.config
+C:\Users\54381\source\repos\Commerce\Conexion\obj\Debug\Conexion.Migrations._0101.resources
+C:\Users\54381\source\repos\Commerce\Conexion\obj\Debug\Conexion.csproj.GenerateResource.cache
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\bin\Debug\Presentacion.Base.exe
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\bin\Debug\Presentacion.Base.pdb
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\bin\Debug\Presentacion.Base.exe.config
+F:\Commerce\Conexion\bin\Debug\Conexion.dll.config
+F:\Commerce\Conexion\bin\Debug\Conexion.dll
+F:\Commerce\Conexion\bin\Debug\Conexion.pdb
+F:\Commerce\Conexion\bin\Debug\Entidades.dll
+F:\Commerce\Conexion\bin\Debug\EntityFramework.dll
+F:\Commerce\Conexion\bin\Debug\EntityFramework.SqlServer.dll
+F:\Commerce\Conexion\bin\Debug\FontAwesome.Sharp.dll
+F:\Commerce\Conexion\bin\Debug\Presentacion.Base.exe
+F:\Commerce\Conexion\bin\Debug\Entidades.pdb
+F:\Commerce\Conexion\bin\Debug\Entidades.dll.config
+F:\Commerce\Conexion\bin\Debug\EntityFramework.xml
+F:\Commerce\Conexion\bin\Debug\EntityFramework.SqlServer.xml
+F:\Commerce\Conexion\bin\Debug\Presentacion.Base.pdb
+F:\Commerce\Conexion\bin\Debug\Presentacion.Base.exe.config
+F:\Commerce\Conexion\obj\Debug\Conexion.csproj.AssemblyReference.cache
+F:\Commerce\Conexion\obj\Debug\Conexion.Migrations._0101.resources
+F:\Commerce\Conexion\obj\Debug\Conexion.Migrations._0102.resources
+F:\Commerce\Conexion\obj\Debug\Conexion.Migrations._0103.resources
+F:\Commerce\Conexion\obj\Debug\Conexion.Migrations._0104.resources
+F:\Commerce\Conexion\obj\Debug\Conexion.csproj.GenerateResource.cache
+F:\Commerce\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+F:\Commerce\Conexion\obj\Debug\Conexion.csproj.CopyComplete
+F:\Commerce\Conexion\obj\Debug\Conexion.dll
+F:\Commerce\Conexion\obj\Debug\Conexion.pdb
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\obj\Debug\Conexion.Migrations._0101.resources
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\obj\Debug\Conexion.csproj.GenerateResource.cache
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\obj\Debug\Conexion.Migrations._0102.resources
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\bin\Debug\Conexion.dll.config
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\bin\Debug\Conexion.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\bin\Debug\Conexion.pdb
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\bin\Debug\Entidades.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\bin\Debug\EntityFramework.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\bin\Debug\Presentacion.Base.exe
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\bin\Debug\Entidades.pdb
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\bin\Debug\Entidades.dll.config
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\bin\Debug\EntityFramework.xml
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\bin\Debug\Presentacion.Base.pdb
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\bin\Debug\Presentacion.Base.exe.config
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\obj\Debug\Conexion.csprojAssemblyReference.cache
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\obj\Debug\Conexion.Migrations._0101.resources
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\obj\Debug\Conexion.Migrations._0102.resources
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\obj\Debug\Conexion.csproj.GenerateResource.cache
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\obj\Debug\Conexion.csproj.CopyComplete
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\obj\Debug\Conexion.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Conexion\obj\Debug\Conexion.pdb
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\obj\Debug\Conexion.Migrations._0103.resources
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\obj\Debug\Conexion.Migrations.montopagado.resources
+C:\Users\Pc_Trabajo\source\repos\Commerce\Conexion\obj\Debug\Conexion.Migrations._05PropiedadesCaja.resources

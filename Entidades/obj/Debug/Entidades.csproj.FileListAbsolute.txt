@@ -1,0 +1,64 @@
+C:\Users\54381\source\repos\Commerce\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\54381\source\repos\Commerce\Entidades\bin\Debug\Entidades.dll
+C:\Users\54381\source\repos\Commerce\Entidades\bin\Debug\Entidades.pdb
+C:\Users\54381\source\repos\Commerce\Entidades\bin\Debug\EntityFramework.dll
+C:\Users\54381\source\repos\Commerce\Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\54381\source\repos\Commerce\Entidades\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\54381\source\repos\Commerce\Entidades\bin\Debug\EntityFramework.xml
+C:\Users\54381\source\repos\Commerce\Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\54381\source\repos\Commerce\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\54381\source\repos\Commerce\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\54381\source\repos\Commerce\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\54381\source\repos\Commerce\Entidades\obj\Debug\Entidades.dll
+C:\Users\54381\source\repos\Commerce\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Pc_Trabajo\source\repos\Commerce\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Pc_Trabajo\source\repos\Commerce\Entidades\bin\Debug\Entidades.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Pc_Trabajo\source\repos\Commerce\Entidades\bin\Debug\EntityFramework.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Entidades\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Entidades\bin\Debug\EntityFramework.xml
+C:\Users\Pc_Trabajo\source\repos\Commerce\Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pc_Trabajo\source\repos\Commerce\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Pc_Trabajo\source\repos\Commerce\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Pc_Trabajo\source\repos\Commerce\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Pc_Trabajo\source\repos\Commerce\Entidades\obj\Debug\Entidades.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Entidades\obj\Debug\Entidades.pdb
+C:\Users\54381\source\repos\Commerce\Entidades\bin\Debug\Presentacion.Base.exe
+C:\Users\54381\source\repos\Commerce\Entidades\bin\Debug\Presentacion.Base.pdb
+C:\Users\54381\source\repos\Commerce\Entidades\bin\Debug\Presentacion.Base.exe.config
+C:\Users\Pc_Trabajo\source\repos\Commerce\Entidades\bin\Debug\Presentacion.Base.exe
+C:\Users\Pc_Trabajo\source\repos\Commerce\Entidades\bin\Debug\Presentacion.Base.pdb
+C:\Users\Pc_Trabajo\source\repos\Commerce\Entidades\bin\Debug\Presentacion.Base.exe.config
+F:\Commerce\Entidades\bin\Debug\Entidades.dll.config
+F:\Commerce\Entidades\bin\Debug\Entidades.dll
+F:\Commerce\Entidades\bin\Debug\Entidades.pdb
+F:\Commerce\Entidades\bin\Debug\EntityFramework.dll
+F:\Commerce\Entidades\bin\Debug\EntityFramework.SqlServer.dll
+F:\Commerce\Entidades\bin\Debug\FontAwesome.Sharp.dll
+F:\Commerce\Entidades\bin\Debug\Presentacion.Base.exe
+F:\Commerce\Entidades\bin\Debug\Presentacion.Base.pdb
+F:\Commerce\Entidades\bin\Debug\Presentacion.Base.exe.config
+F:\Commerce\Entidades\bin\Debug\EntityFramework.xml
+F:\Commerce\Entidades\bin\Debug\EntityFramework.SqlServer.xml
+F:\Commerce\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+F:\Commerce\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Commerce\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+F:\Commerce\Entidades\obj\Debug\Entidades.dll
+F:\Commerce\Entidades\obj\Debug\Entidades.pdb
+C:\Users\54381\source\repos\Nueva version\Commerce\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\54381\source\repos\Nueva version\Commerce\Entidades\bin\Debug\Entidades.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Entidades\bin\Debug\Entidades.pdb
+C:\Users\54381\source\repos\Nueva version\Commerce\Entidades\bin\Debug\EntityFramework.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Entidades\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Entidades\bin\Debug\Presentacion.Base.exe
+C:\Users\54381\source\repos\Nueva version\Commerce\Entidades\bin\Debug\Presentacion.Base.pdb
+C:\Users\54381\source\repos\Nueva version\Commerce\Entidades\bin\Debug\Presentacion.Base.exe.config
+C:\Users\54381\source\repos\Nueva version\Commerce\Entidades\bin\Debug\EntityFramework.xml
+C:\Users\54381\source\repos\Nueva version\Commerce\Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\54381\source\repos\Nueva version\Commerce\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\54381\source\repos\Nueva version\Commerce\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\54381\source\repos\Nueva version\Commerce\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\54381\source\repos\Nueva version\Commerce\Entidades\obj\Debug\Entidades.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Entidades\obj\Debug\Entidades.pdb

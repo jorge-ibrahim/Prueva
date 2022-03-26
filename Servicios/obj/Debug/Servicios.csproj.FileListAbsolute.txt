@@ -1,0 +1,104 @@
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\Servicios.dll.config
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\Servicios.dll
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\Servicios.pdb
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\EntityFramework.dll
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\EntityFramework.xml
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\54381\source\repos\Commerce\Servicios\obj\Debug\Servicios.csprojAssemblyReference.cache
+C:\Users\54381\source\repos\Commerce\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\54381\source\repos\Commerce\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+C:\Users\54381\source\repos\Commerce\Servicios\obj\Debug\Servicios.dll
+C:\Users\54381\source\repos\Commerce\Servicios\obj\Debug\Servicios.pdb
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\Conexion.dll
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\Entidades.dll
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\Conexion.pdb
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\Conexion.dll.config
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\Entidades.pdb
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\Entidades.dll.config
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\Servicios.dll.config
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\Servicios.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\Servicios.pdb
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\Conexion.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\Entidades.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\EntityFramework.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\Conexion.pdb
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\Conexion.dll.config
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\Entidades.pdb
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\Entidades.dll.config
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\EntityFramework.xml
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\obj\Debug\Servicios.csproj.AssemblyReference.cache
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\obj\Debug\Servicios.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\obj\Debug\Servicios.pdb
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\Presentacion.Base.exe
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\Presentacion.Base.pdb
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\Presentacion.Base.exe.config
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\Presentacion.Base.exe
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\Presentacion.Base.pdb
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\Presentacion.Base.exe.config
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\ExcelNumberFormat.dll
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\System.IO.Packaging.dll
+C:\Users\54381\source\repos\Commerce\Servicios\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\System.IO.Packaging.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Servicios\bin\Debug\ExcelNumberFormat.xml
+F:\Commerce\Servicios\bin\Debug\Servicios.dll.config
+F:\Commerce\Servicios\bin\Debug\Servicios.dll
+F:\Commerce\Servicios\bin\Debug\Servicios.pdb
+F:\Commerce\Servicios\bin\Debug\BouncyCastle.Crypto.dll
+F:\Commerce\Servicios\bin\Debug\Conexion.dll
+F:\Commerce\Servicios\bin\Debug\Entidades.dll
+F:\Commerce\Servicios\bin\Debug\EntityFramework.dll
+F:\Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.dll
+F:\Commerce\Servicios\bin\Debug\ExcelNumberFormat.dll
+F:\Commerce\Servicios\bin\Debug\FontAwesome.Sharp.dll
+F:\Commerce\Servicios\bin\Debug\Presentacion.Base.exe
+F:\Commerce\Servicios\bin\Debug\System.IO.Packaging.dll
+F:\Commerce\Servicios\bin\Debug\Conexion.pdb
+F:\Commerce\Servicios\bin\Debug\Conexion.dll.config
+F:\Commerce\Servicios\bin\Debug\Entidades.pdb
+F:\Commerce\Servicios\bin\Debug\Entidades.dll.config
+F:\Commerce\Servicios\bin\Debug\Presentacion.Base.pdb
+F:\Commerce\Servicios\bin\Debug\Presentacion.Base.exe.config
+F:\Commerce\Servicios\bin\Debug\EntityFramework.xml
+F:\Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.xml
+F:\Commerce\Servicios\bin\Debug\ExcelNumberFormat.xml
+F:\Commerce\Servicios\obj\Debug\Servicios.csproj.AssemblyReference.cache
+F:\Commerce\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+F:\Commerce\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+F:\Commerce\Servicios\obj\Debug\Servicios.dll
+F:\Commerce\Servicios\obj\Debug\Servicios.pdb
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\obj\Debug\Servicios.csprojAssemblyReference.cache
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\obj\Debug\Servicios.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\obj\Debug\Servicios.pdb
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\Servicios.dll.config
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\Servicios.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\Servicios.pdb
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\Conexion.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\Entidades.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\EntityFramework.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\ExcelNumberFormat.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\Presentacion.Base.exe
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\System.IO.Packaging.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\Conexion.pdb
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\Conexion.dll.config
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\Entidades.pdb
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\Entidades.dll.config
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\Presentacion.Base.pdb
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\Presentacion.Base.exe.config
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\EntityFramework.xml
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\bin\Debug\ExcelNumberFormat.xml
+C:\Users\54381\source\repos\Nueva version\Commerce\Servicios\obj\Debug\Servicios.csproj.CopyComplete

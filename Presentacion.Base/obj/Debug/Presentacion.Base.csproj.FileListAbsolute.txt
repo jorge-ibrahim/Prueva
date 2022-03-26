@@ -1,0 +1,104 @@
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.exe.config
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.exe
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\bin\Debug\EntityFramework.dll
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\bin\Debug\EntityFramework.xml
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csprojAssemblyReference.cache
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioAbm.resources
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.Properties.Resources.resources
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.cache
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.CoreCompileInputs.cache
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.CopyComplete
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.exe
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.exe.config
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.exe
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\bin\Debug\EntityFramework.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\bin\Debug\EntityFramework.xml
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioAbm.resources
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.Properties.Resources.resources
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.cache
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.CoreCompileInputs.cache
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.CopyComplete
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.exe
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\bin\Debug\itextsharp.dll
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\bin\Debug\itextsharp.xml
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\bin\Debug\ExcelNumberFormat.dll
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\bin\Debug\System.IO.Packaging.dll
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\bin\Debug\itextsharp.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\bin\Debug\System.IO.Packaging.dll
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\bin\Debug\itextsharp.xml
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLoockUp.resources
+C:\Users\54381\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLoockUp.resources
+F:\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.exe.config
+F:\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.exe
+F:\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+F:\Commerce\Presentacion.Base\bin\Debug\BouncyCastle.Crypto.dll
+F:\Commerce\Presentacion.Base\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Commerce\Presentacion.Base\bin\Debug\EntityFramework.dll
+F:\Commerce\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+F:\Commerce\Presentacion.Base\bin\Debug\ExcelNumberFormat.dll
+F:\Commerce\Presentacion.Base\bin\Debug\FontAwesome.Sharp.dll
+F:\Commerce\Presentacion.Base\bin\Debug\itextsharp.dll
+F:\Commerce\Presentacion.Base\bin\Debug\System.IO.Packaging.dll
+F:\Commerce\Presentacion.Base\bin\Debug\DocumentFormat.OpenXml.xml
+F:\Commerce\Presentacion.Base\bin\Debug\EntityFramework.xml
+F:\Commerce\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+F:\Commerce\Presentacion.Base\bin\Debug\ExcelNumberFormat.xml
+F:\Commerce\Presentacion.Base\bin\Debug\itextsharp.xml
+F:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.AssemblyReference.cache
+F:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioAbm.resources
+F:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+F:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLoockUp.resources
+F:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.Properties.Resources.resources
+F:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.cache
+F:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.CoreCompileInputs.cache
+F:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.CopyComplete
+F:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.exe
+F:\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.exe.config
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.exe
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\bin\Debug\Presentacion.Base.pdb
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\bin\Debug\EntityFramework.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\bin\Debug\ExcelNumberFormat.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\bin\Debug\itextsharp.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\bin\Debug\System.IO.Packaging.dll
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\bin\Debug\EntityFramework.xml
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\bin\Debug\ExcelNumberFormat.xml
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\bin\Debug\itextsharp.xml
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csprojAssemblyReference.cache
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioAbm.resources
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioConsulta.resources
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.FormularioLoockUp.resources
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.Properties.Resources.resources
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.GenerateResource.cache
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.CoreCompileInputs.cache
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.CopyComplete
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.exe
+C:\Users\54381\source\repos\Nueva version\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.pdb
+C:\Users\Pc_Trabajo\source\repos\Commerce\Presentacion.Base\obj\Debug\Presentacion.Base.csproj.AssemblyReference.cache
